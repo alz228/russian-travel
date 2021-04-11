@@ -2,7 +2,7 @@
 
 Проектная работа по адаптивной верстке
 
-Доступна по ссылке [на GitHub Pages](https://alz228.github.io/sprint-4/)
+Доступна по ссылке [на GitHub Pages](https://alz228.github.io/russian-travel/)
 
 
 ## Описание
